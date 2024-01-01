@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fcampos38
-- 🐍 Python Developer & 📈 Data Analyst
+- 🐍 Python Developer & 📈 Data Analyst & 👨🏽‍💻 Data Engineer
 
 <!---
 fcampos38/fcampos38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
